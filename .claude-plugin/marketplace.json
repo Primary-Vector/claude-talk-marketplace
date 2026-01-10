@@ -1,0 +1,22 @@
+{
+  "name": "claude-talk-marketplace",
+  "owner": {
+    "name": "Primary Vector"
+  },
+  "metadata": {
+    "description": "TTS plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-talk",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Primary-Vector/claude-talk.git"
+      },
+      "description": "TTS plugin - speaks Claude's responses aloud using Kokoro ONNX. Fast, async playback with multiple voice options.",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
