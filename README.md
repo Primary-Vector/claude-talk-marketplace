@@ -1,6 +1,6 @@
-# Claude Talk Marketplace
+# Primary Vector Marketplace
 
-A Claude Code plugin marketplace for TTS (text-to-speech) plugins.
+A Claude Code plugin marketplace by Primary Vector.
 
 ## Installation
 
@@ -10,16 +10,16 @@ In Claude Code, register the marketplace:
 /plugin marketplace add primary-vector/claude-talk-marketplace
 ```
 
-Then install the plugin:
+Then install a plugin:
 
 ```
-/plugin install claude-talk@claude-talk-marketplace
+/plugin install talk@primary-vector-marketplace
 ```
 
 After installation, run setup:
 
 ```
-/claude-talk:setup
+/talk:setup
 ```
 
 This will download models, let you choose a voice, and configure hooks.
@@ -28,7 +28,7 @@ This will download models, let you choose a voice, and configure hooks.
 
 | Plugin | Description |
 |--------|-------------|
-| **claude-talk** | TTS plugin that speaks Claude's responses aloud using Kokoro ONNX |
+| **talk** | TTS plugin that speaks Claude's responses aloud using Kokoro ONNX |
 
 ## Requirements
 

@@ -1,10 +1,10 @@
 {
-  "name": "claude-talk-marketplace",
+  "name": "primary-vector-marketplace",
   "owner": {
     "name": "Primary Vector"
   },
   "metadata": {
-    "description": "TTS plugins for Claude Code",
+    "description": "Claude Code plugins by Primary Vector",
     "version": "1.0.0"
   },
   "plugins": [
