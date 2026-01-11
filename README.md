@@ -33,7 +33,6 @@ This will download models, let you choose a voice, and configure hooks.
 ## Requirements
 
 - Python 3.11+
-- [uv](https://docs.astral.sh/uv/) package manager
 - macOS (Apple Silicon recommended)
 - espeak-ng: `brew install espeak-ng`
 

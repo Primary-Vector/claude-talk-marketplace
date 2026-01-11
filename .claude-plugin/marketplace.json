@@ -15,7 +15,7 @@
         "url": "https://github.com/Primary-Vector/claude-talk.git"
       },
       "description": "TTS plugin - speaks Claude's responses aloud using Kokoro ONNX. Fast, async playback with 10 diverse voice options.",
-      "version": "1.1.2",
+      "version": "1.2.0",
       "strict": true
     }
   ]
