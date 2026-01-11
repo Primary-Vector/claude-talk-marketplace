@@ -7,7 +7,7 @@ A Claude Code plugin marketplace by Primary Vector.
 In Claude Code, register the marketplace:
 
 ```
-/plugin marketplace add primary-vector/claude-talk-marketplace
+/plugin marketplace add primary-vector/claude-marketplace
 ```
 
 Then install a plugin:
